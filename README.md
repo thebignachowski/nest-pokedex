@@ -23,6 +23,18 @@ npm i -g @nest/cli
 docker-compose up -d
 ```
 
+5. axios version instaled
+
+```
+yarn add @0.27.2
+```
+
+6. Rebuild database with seed
+
+```
+http://localhost:3000/api/v2/seed
+```
+
 ## Stack used
 
 - MongoDB
