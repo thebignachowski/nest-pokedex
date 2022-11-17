@@ -25,8 +25,8 @@ export class PokemonService {
     
   }
 
-  async findAll() {
-    return await this.pokemonModel.find();
+  findAll() {
+    return `This action returns all pokemon`;
   }
 
   async findOne(term: string) {
