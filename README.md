@@ -26,7 +26,7 @@ docker-compose up -d
 5. axios version instaled
 
 ```
-yarn add @0.27.2
+yarn add @axios0.27.2
 ```
 
 6. Rebuild database with seed
